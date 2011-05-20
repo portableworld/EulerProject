@@ -15,7 +15,7 @@ public class EulerProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Problem_2 problem = new Problem_2();
+        Problem_4 problem = new Problem_4();
         System.out.println(problem.Solve());
     }
 }
